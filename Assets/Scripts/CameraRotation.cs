@@ -1,7 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.Networking.Match;
+﻿using UnityEngine;
 
 public class CameraRotation : MonoBehaviour
 {
